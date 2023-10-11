@@ -8,11 +8,11 @@ window.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    const experties = document.getElementById('experties');
-    experties.addEventListener('click', function(event) {
-        event.preventDefault();
-        scrollToView('.experties');
-    });
+    // const experties = document.getElementById('experties');
+    // experties.addEventListener('click', function(event) {
+    //     event.preventDefault();
+    //     scrollToView('.experties');
+    // });
 
     // const services = document.getElementById('services');
     // services.addEventListener('click', function(event) {
